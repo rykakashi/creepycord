@@ -1,0 +1,83 @@
+{
+    "manifest": {
+        "author": "឵឵zeus.#4035",
+        "name": "Creepycord",
+        "updater": "",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/881984631547789362\/888166693711515699\/pumpkins-halloween.gif",
+        "blur_radius": 5,
+        "overlay_alpha": 140
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/886120237609668608\/Scarytale-ScarytaleBase.otf"
+    },
+    "simple_colors": {
+        "background": 704643072,
+        "background_secondary": 587202560,
+        "accent": -38912,
+        "mention_highlight": 1252138752
+    },
+    "colors": {
+        "abc_hint_foreground_material_dark": -38912,
+        "abc_primary_text_disable_only_material_dark": -38912,
+        "background_floating_material_dark": -38912,
+        "background_material_dark": -38912,
+        "brand": -38912,
+        "brand_new": -38912,
+        "brand_500": -38912,
+        "brand_600": -38912,
+        "brand_new_500": -38912,
+        "brand_new_530": -38912,
+        "brand_new_560": -38912,
+        "brand_new_600": -38912,
+        "brand_new_630": -38912,
+        "button_color_selector": -38912,
+        "cardview_dark_background": -38912,
+        "focus_primary_500": -38912,
+        "grey_unread": -38912,
+        "link": -5439741,
+        "mtrl_btn_text_color_disabled": -9174526,
+        "primary_dark_200": -21657,
+        "primary_dark_300": -38912,
+        "primary_dark_330": -38912,
+        "primary_dark_360": -18837,
+        "primary_dark_400": -38912,
+        "primary_dark_material_light": -18837,
+        "primary_text_disabled_material_dark": -18837,
+        "secondary_text_default_material_dark": -18837,
+        "secondary_text_disabled_material_dark": -18837,
+        "status_red_500": -38912,
+        "uikit_btn_bg_color_selector_brand": -18837,
+        "uikit_btn_bg_color_selector_green": -9174526,
+        "uikit_btn_compound_color_selector_dark": -18837,
+        "uikit_settings_item_text_color_dark": -18837,
+        "channel_item_hub_selector": -38912
+    },
+    "drawable_tints": {
+        "ic_status_24dp": -18837,
+        "ic_status_dnd_16dp": -16120712,
+        "ic_status_idle_16dp": -8978432,
+        "ic_status_invisible_16dp": -7892210,
+        "ic_status_streaming_16dp": -3840,
+        "ic_status_online_16dp": -38912,
+        "ic_sidebar_notifications_on_dark_24dp": -38912,
+        "ic_user_profile_action_call_grey_a60_24dp": -38912,
+        "ic_user_profile_action_call_white_24dp": -38912,
+        "ic_user_profile_action_call_white_a60_24dp": -38912,
+        "ic_account_spotify": -38912,
+        "ic_spotify_green_24dp": -38912,
+        "ic_spotify_white_24dp": -38912,
+        "ic_delete_grey_a60_24dp": -38912,
+        "ic_mic_interactivenormal_dark_24dp": -38912,
+        "ic_mic_mute_red_strike_24dp": -38912,
+        "ic_mic_white_24dp": -38912,
+        "ic_mic_white_a60_24dp": -38912,
+        "ic_mic_white_18dp_muted": -38912,
+        "ic_mic_white_18dp": -38912,
+        "ic_mic_state_dark": -38912,
+        "ic_mic_muted_grey_a60_24dp": -38912,
+        "ic_mic_muted_grey_24dp": -38912
+    }
+}
