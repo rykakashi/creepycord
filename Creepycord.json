@@ -2,7 +2,7 @@
     "manifest": {
         "author": "឵឵zeus.#4035",
         "name": "Creepycord",
-        "updater": "",
+        "updater": "https://raw.githubusercontent.com/rykakashi/creepycord/main/Creepycord.json",
         "version": "1.0.0"
     },
     "background": {
